@@ -1,0 +1,23 @@
+{
+  "feature": "youtube-telegram-bot",
+  "createdAt": "2026-08-23T15:02:41Z",
+  "parameters": {
+    "skipUI": true,
+    "skipDeploy": false,
+    "quick": true
+  },
+  "stages": {
+    "1": { "status": "completed", "startTime": "2026-08-23T15:02:41Z", "endTime": "2026-08-23T15:12:00Z" },
+    "2": { "status": "completed", "startTime": "2026-08-23T15:12:00Z", "endTime": "2026-08-23T15:30:00Z" },
+    "3": { "status": "completed", "startTime": "2026-08-23T15:30:00Z", "endTime": "2026-08-23T15:56:00Z" },
+    "4": { "status": "completed", "startTime": "2026-08-23T15:56:00Z", "endTime": "2026-08-23T16:02:51Z" }
+  },
+  "qualityGates": {
+    "gate0": "passed",
+    "gate1": "conditional-user-acceptance",
+    "gate2": "not-applicable-non-web"
+  },
+  "humanInterventions": [
+    "Send a previously failing YouTube URL to @wsejoy_bot and confirm Telegram receipt; then test one Shorts and one 1080p sample when available."
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "case_id": "authorized-watch-720",
+    "url": "https://www.youtube.com/watch?v=REPLACE_ME",
+    "expected_video_id": "REPLACE_ME",
+    "expected_title": "REPLACE_ME",
+    "source_duration": 0,
+    "target": "720p",
+    "expected_short_edge": 720
+  }
+]

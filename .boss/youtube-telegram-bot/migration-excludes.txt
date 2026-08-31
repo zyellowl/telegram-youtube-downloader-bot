@@ -1,0 +1,17 @@
+.env
+.venv/
+downloads/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+*.log
+telegram-bot-api-data/
+tests/live/samples.json
+tests/live/artifacts/
+*.mp3
+*.mp4
+*.webm
+*.m4a
+*.part
+*.ytdl

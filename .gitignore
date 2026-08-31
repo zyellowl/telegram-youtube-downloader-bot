@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+.env
+downloads/
+tests/live/samples.json
+tests/live/artifacts/
+tests/live/reports/
+telegram-bot-api-data/
+tmp/
+*.log
+.DS_Store
